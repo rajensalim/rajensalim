@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajensalim
+- 👋 Hi, I’m Rajendra Salim
 - 👀 I’m interested in Material and Nuclear physics
 - 🌱 I’m currently learning Machine Learning on Bangkit 2022
 - 💞️ I’m looking to collaborate on this project!
